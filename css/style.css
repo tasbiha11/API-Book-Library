@@ -1,10 +1,15 @@
 body{
     background-color: rgb(224, 207, 233);
 }
-h1, h2{
+h1, h2, h4{
     color: blue;
 }
 
 h5{
     color: crimson;
+}
+
+.img-sizing{
+    width: 350px;
+    height:200px;
 }
